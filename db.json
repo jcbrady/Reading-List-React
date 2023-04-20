@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "title": "San Francisco and Other Places to Visit",
+      "id": 1
+    },
+    {
+      "title": "d-code",
+      "id": 3
+    },
+    {
+      "title": "Harry Potter and the Strawberries",
+      "id": 4
+    }
+  ]
+}
